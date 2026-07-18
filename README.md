@@ -2,15 +2,8 @@
 
 A modern, responsive personal portfolio website built with **Python** and **Django** to showcase my skills, projects, resume, and contact information. The website features smooth animations, a clean UI, and a fully responsive design.
 
-🌐 **Live Demo:** *(Add after deployment)*
-
----
-
-## 📸 Preview
-
-<img width="100%" alt="Portfolio Preview" src="https://via.placeholder.com/1200x600?text=Portfolio+Preview">
-
----
+🌐## Live Demo
+https://atharvaportfolio-7kd2.onrender.com
 
 ## ✨ Features
 
